@@ -18,3 +18,4 @@ Personal developer website.
 
 ```bash
 hugo server -D
+```
