@@ -1,0 +1,4 @@
+baseURL = 'https://oleh-exe.com/'
+locale = 'en-us'
+title = 'oleh-exe.com'
+theme = "paper"
